@@ -1,0 +1,17 @@
+---
+people:
+-  Id:1
+    Code:524.34
+    Firstname:Pal
+    Lastname:Ijari
+    Email:palash.com
+-   Id:2
+    Code:524.34
+    Firstname:Psadas
+    Lastname:Iasda
+    Email:palash.co
+
+...
+---
+item1: iteam1value
+item2: item2value
